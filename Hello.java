@@ -6,5 +6,12 @@ public class Hello
 	  System.out.println("Shree Sidhnath Prasanna___");
 	  System.out.println("Shree Swami Samartha___");
 	  
+	  
+	  for(int i=0;i<5;i++)
+	  {
+		   System.out.println("akash :");
+		   
+	  }
+	  
    }
 }
